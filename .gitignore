@@ -1,0 +1,5 @@
+# Internal QA scripts, snapshots, logs and preview shots are not part of the published app.
+_*
+_shots/
+__pycache__/
+*.pyc
